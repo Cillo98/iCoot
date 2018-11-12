@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">iCoot</string>
+
+    <string name="title_browse">Browse</string>
+    <string name="title_reservations">Reservation</string>
+    <string name="title_rentals">Rentals</string>
+    <string name="title_account">Account</string>
+
+    <string name="btn_login">Log in</string>
+    <string name="btn_sign_up">Sign up</string>
+
+    <string name="hint_email">mario.rossi@gmail.com</string>
+    <string name="hint_password">MarioBello1975</string>
+</resources>
