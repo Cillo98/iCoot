@@ -53,4 +53,28 @@ class MainActivity : AppCompatActivity() {
             Toast.makeText(this, "Logged in", Toast.LENGTH_SHORT).show()
 
     }
+
+    /* TODO: The following things need to be done in order:
+
+    1. Finish setting up the layouts:
+        a. row_reservation
+        b. row_rental
+
+    2. Write the database for:
+        a. client / assistant
+        b. reservation
+        c. rental
+        d. car
+
+    3. Make the recyclerView for:
+        a. cars
+        b. reservations
+        c. rentals
+
+    4. Create sample data and populate the database
+
+    5. Make the login part and the view membership info / logout activity+layout
+
+     */
+
 }
